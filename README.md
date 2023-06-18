@@ -7,7 +7,7 @@
 ## General info
 * This software has been created within Mathematica 12 by M. Verde in collaboration with C. T. Schmiegelow and F. Schmidt-Kaler
 * The software enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields.pdf submitted in date ... to Scientific Report
-* The software can be used and modified in agreement with the Copyleft license
+* The software can be used and modified in agreement with the GNU General Public License v3.0
 
 ## Goal
 * The goal is providing a software for further scientific development in the area of quantum-optics, -sensing and -information
