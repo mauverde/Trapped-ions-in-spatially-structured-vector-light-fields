@@ -6,7 +6,7 @@
 
 ## General info
 * The software has been created within Mathematica 12 by M. Verde in collaboration with C. T. Schmiegelow and F. Schmidt-Kaler
-* It enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields.pdf submitted in date ... to Scientific Report
+* It enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields (link to ArXive)
 * It can be used and modified in agreement with the GNU General Public License v3.0
 
 ## Goal
