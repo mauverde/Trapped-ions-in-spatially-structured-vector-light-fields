@@ -5,13 +5,13 @@
 * [Extensions](#extensions)
 
 ## General info
-* This software has been created within Mathematica 12 by M. Verde in collaboration with C. T. Schmiegelow and F. Schmidt-Kaler
-* The software enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields.pdf submitted in date ... to Scientific Report
-* The software can be used and modified in agreement with the GNU General Public License v3.0
+* The software has been created within Mathematica 12 by M. Verde in collaboration with C. T. Schmiegelow and F. Schmidt-Kaler
+* It enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields.pdf submitted in date ... to Scientific Report
+* It can be used and modified in agreement with the GNU General Public License v3.0
 
 ## Goal
-* The goal is providing a software for further scientific development in the area of quantum-optics, -sensing and -information
-* The software offers a clear computational framework to design and engineer the interaction between singly trapped atoms or ions and spatially-structured light fields, with special attention to light beams carrying orbital angular momentum
+* The goal of the software is providing a computational framework for further scientific development in the area of quantum-optics, -sensing and -information
+* The software offers a set of computational tools to design and engineer the interaction between singly trapped atoms or ions and spatially-structured light fields, with special attention to light beams carrying orbital angular momentum
 * The readers of our work Trapped-ions-in-spatially-structured-vector-light-fields can use the software as a guide to adapt our calculations to their specific case of interest 
 
 ## Usage
