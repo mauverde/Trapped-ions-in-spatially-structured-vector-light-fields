@@ -1,4 +1,6 @@
-## Trapped-ions-in-spatially-structured-vector-light-fields.nb
+# Trapped atoms in spatially-structured vector light fields
+The Mathematica code reproduces the results presented in the article: [“Trapped atoms in spatially-structured vector light fields”](https://doi.org/10.1038/s41598-023-48589-1), SciRep 13, 21283 (2023). These simulations are a useful theoretical framework for the experiments I directly performed on trapped Ca⁺ ions during my PostDoc in Germany at the Johannes-Gutenberg University of Mainz in the Ferdinand Schmidt-Kaler's [group](https://www.quantenbit.physik.uni-mainz.de/).
+
 * [General info](#general-info)
 * [Goal](#goal)
 * [Usage](#usage)
