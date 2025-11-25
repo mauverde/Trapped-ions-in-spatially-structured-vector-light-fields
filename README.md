@@ -8,13 +8,13 @@ The Mathematica code reproduces the results presented in the article: [“Trappe
 
 ## General info
 * The software has been created within Mathematica 12 by M. Verde in collaboration with C. T. Schmiegelow and F. Schmidt-Kaler
-* It enables the calculations described within the work Trapped-ions-in-spatially-structured-vector-light-fields (link to ArXive)
+* It enables the calculations described within the paper [“Trapped atoms in spatially-structured vector light fields”](https://doi.org/10.1038/s41598-023-48589-1)
 * It can be used and modified in agreement with the GNU General Public License v3.0
 
 ## Goal
 * The goal of the software is providing a computational framework for further scientific development in the area of quantum-optics, -sensing and -information
 * The software offers a set of computational tools to design and engineer the interaction between singly trapped atoms or ions and spatially-structured light fields, with special attention to light beams carrying orbital angular momentum
-* The readers of our work Trapped-ions-in-spatially-structured-vector-light-fields can use the software as a guide to adapt our calculations to their specific case of interest 
+* The readers of our work can use the software as a guide to adapt our calculations to their specific case of interest 
 
 ## Usage
 * Set the desired parameters describing the Hermite-Gaussian and Laguerre-Gaussian vector beams used in our software
